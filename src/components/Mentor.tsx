@@ -6,7 +6,7 @@ const Mentor = () => {
         {/* Image */}
         <div className="flex-shrink-0">
           <img
-            src="src/assets/sir.jpg"
+            src="src\assets\sir.jpg"
             alt="Mr. Ali Sher Kashif"
             className="w-[300px] md:w-[350px] rounded-2xl shadow-lg border-4 border-purple-400 hover:scale-105 transition-transform duration-300"
           />

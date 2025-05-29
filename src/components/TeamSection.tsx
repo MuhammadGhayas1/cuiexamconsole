@@ -41,7 +41,7 @@ const TeamSection: React.FC = () => {
     {
       name: "Javeria Arshad",
       role: "Team Lead & Developer",
-      image: "/src/assets/1.jpg",
+      image: "src/assets/1.jpg",
       bio: "Lead developer responsible for system architecture and core functionality implementation.",
       social: {
        
@@ -52,7 +52,7 @@ const TeamSection: React.FC = () => {
     {
       name: "Alishba Shahbaz",
       role: "Backend Developer",
-      image: "/src/assets/2.jpg",
+      image: "src/assets/2.jpg",
       bio: "Focused on database design, file handling, and core Java implementation.",
       social: {
        
@@ -61,7 +61,7 @@ const TeamSection: React.FC = () => {
     {
       name: "Fatima Asad",
       role: "UI/UX Designer",
-      image: "/src/assets/3.jpg",
+      image: "src/assets/3.jpg",
       bio: "Responsible for console interface design, user experience, and documentation.",
       social: {
         
